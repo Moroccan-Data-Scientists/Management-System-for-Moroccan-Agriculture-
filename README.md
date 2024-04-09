@@ -1,9 +1,8 @@
 Overview:
 
-This project involves Management System for Moroccan Agriculture 🌱
+This project involves the Management System for Moroccan Agriculture 🌱
 - Detect pests and diseases
 - Predict crop yields
-- Forecast market prices
-- Predict 
+- Forecast market prices 
 - Optimize irrigation
 - future weather patterns, water requirements
