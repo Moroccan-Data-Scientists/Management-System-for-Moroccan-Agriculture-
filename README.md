@@ -17,3 +17,5 @@ Potato Healthy Leaf
 The process entails multiple steps, starting with the importation of libraries, loading and visualization of data, partitioning the data into training and validation sets, preprocessing the data, constructing the CNN model, training the model, and evaluating its performance.
 
 The dataset can be accessed on Kaggle: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
+
+Web application to detect potato plant leaf diseases 🍃
