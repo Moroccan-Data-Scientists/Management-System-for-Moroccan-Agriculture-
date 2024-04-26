@@ -22,3 +22,47 @@ Web application to detect potato plant leaf diseases 🍃
 In this project we aim to build a web app that can assist farmers in detecting potato plant diseases. The application will be able to classify the disease in an infected potato plant using it's leaf and Convolutional Neural Networks.
 
 
+## Requirements
+
+* Python 3.9 or later
+* Flask
+* gunicorn
+* streamlit
+* tensorflow
+* pillow
+* numpy
+  
+## Installation
+
+1. Clone the repository :
+```bash
+git clone https://github.com/Moroccan-Data-Scientists/Management-System-for-Moroccan-Agriculture-
+```
+2. Navigate to the project directory  :
+```bash
+cd Moroccan-Data-Scientists/Management-System-for-Moroccan-Agriculture-
+```
+3. Create a virtual environment and activate it using your preffered shell :
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+4. Install the required dependencies :
+```bash
+pip install -r requirements.txt
+```
+5. Start the Flask web application locally using Gunicorn(or Flask) :
+```bash
+gunicorn app:app
+```
+```bash
+flask run
+```
+6. Start the streamlit web application :
+```bash
+streamlit run streamlit_app.py
+```
+8. The application will be available at :
+* If you used Gunicorn: <http://127.0.0.1:8000/>
+* If you used flask run: <http://127.0.0.1:5000/>
+* If you used streamlit: <http://localhost:8501/>
