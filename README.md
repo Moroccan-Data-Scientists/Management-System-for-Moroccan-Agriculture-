@@ -66,3 +66,7 @@ streamlit run streamlit_app.py
 * If you used Gunicorn: <http://127.0.0.1:8000/>
 * If you used flask run: <http://127.0.0.1:5000/>
 * If you used streamlit: <http://localhost:8501/>
+8. Example of usage :
+- Streamlit:
+![Streamlit](https://cdn.hashnode.com/res/hashnode/image/upload/v1714150183694/179de6e2-c88a-4412-99a5-e382080a6ea5.png?auto=compress,format&format=webp)
+![Streamlit](https://cdn.hashnode.com/res/hashnode/image/upload/v1714150321630/d5a5465c-5f4d-487c-9e7a-7709f13b9045.png?auto=compress,format&format=webp)
