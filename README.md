@@ -19,7 +19,12 @@ The process entails multiple steps, starting with the importation of libraries, 
 The dataset can be accessed on Kaggle: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
 Web application to detect potato plant leaf diseases 🍃
-In this project we aim to build a web app that can assist farmers in detecting potato plant diseases. The application will be able to classify the disease in an infected potato plant using it's leaf and Convolutional Neural Networks.
+
+huggingface : https://huggingface.co/spaces/MoroccanDS/Moroccan-Agri-Leaf-Pest-Detection
+
+In this project we aim to build a web app that can assist farmers in detecting potato plant diseases. 
+
+The application will be able to classify the disease in an infected potato plant using it's leaf and Convolutional Neural Networks.
 
 
 ## Requirements
