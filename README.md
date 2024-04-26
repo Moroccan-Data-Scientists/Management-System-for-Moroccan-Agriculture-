@@ -62,7 +62,7 @@ flask run
 ```bash
 streamlit run streamlit_app.py
 ```
-8. The application will be available at :
+7. The application will be available at :
 * If you used Gunicorn: <http://127.0.0.1:8000/>
 * If you used flask run: <http://127.0.0.1:5000/>
 * If you used streamlit: <http://localhost:8501/>
